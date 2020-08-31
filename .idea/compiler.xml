@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="multigradle.Calculate.main" target="1.8" />
+      <module name="multigradle.Calculate.test" target="1.8" />
+      <module name="multigradle.Logic.main" target="1.8" />
+      <module name="multigradle.Logic.test" target="1.8" />
+      <module name="multigradle.main" target="1.8" />
+      <module name="multigradle.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
